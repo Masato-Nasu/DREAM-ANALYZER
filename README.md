@@ -2,6 +2,14 @@
 
 **深層心理夢占い** — 夢を記録し、人物・場所・出来事・感情から心の奥にあるものを読み解くBYOK型PWAです。
 
+<p align="center">
+  <a href="https://dream-analyzer.sunny-seed-0354.chatgpt.site"><strong>PWAを開く</strong></a>
+</p>
+
+<p align="center">
+  <img src="screenshot.png" width="900" alt="DREAM ANALYZERの分析結果画面">
+</p>
+
 ## Features
 
 - 夢の内容、目覚めたときの感情、最近の状況を入力
@@ -15,7 +23,13 @@
 
 ## PWA
 
-対応ブラウザでサイトを開き、ブラウザメニューの「アプリをインストール」または「ホーム画面に追加」を選択してください。
+**起動URL:** https://dream-analyzer.sunny-seed-0354.chatgpt.site
+
+対応ブラウザで上記URLを開き、ブラウザメニューの「アプリをインストール」または「ホーム画面に追加」を選択してください。
+
+- Android / Chrome: メニュー →「アプリをインストール」
+- iPhone / Safari: 共有 →「ホーム画面に追加」
+- PC / Chrome・Edge: アドレスバー右側のインストールアイコン
 
 ## Privacy
 
