@@ -6,10 +6,6 @@
   <a href="https://dream-analyzer.sunny-seed-0354.chatgpt.site"><strong>PWAを開く</strong></a>
 </p>
 
-<p align="center">
-  <img src="screenshot.png" width="900" alt="DREAM ANALYZERの分析結果画面">
-</p>
-
 ## Features
 
 - 夢の内容、目覚めたときの感情、最近の状況を入力
